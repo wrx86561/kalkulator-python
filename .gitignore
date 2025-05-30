@@ -1,1 +1,22 @@
+# Pliki kompilowane Pythona
 __pycache__/
+*.py[cod]
+*.pyo
+
+# Pliki tymczasowe edytorów
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Środowiska wirtualne
+venv/
+.env/
+
+# Pliki konfiguracyjne lokalne
+.env
+*.sqlite3
