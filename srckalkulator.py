@@ -26,5 +26,10 @@ if __name__ == "__main__":
         print("Wynik:", mnoz(a, b))
     elif operacja == "/":
         print("Wynik:", dziel(a, b))
+    elif operacja == "**":
+        print("Wynik:", poteguj(a, b))
     else:
         print("Nieznana operacja.")
+
+def poteguj(a, b):
+    return a ** b
