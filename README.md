@@ -1,4 +1,4 @@
-# 🧮 Kalkulator w Pythonie
+# 🧮 Kalkulator CLI w Pythonie
 
 Prosty kalkulator napisany w języku **Python**, działający w trybie tekstowym, który umożliwia wykonywanie podstawowych operacji matematycznych: dodawania, odejmowania, mnożenia i dzielenia.
 
